@@ -24,4 +24,3 @@ def candles(symb,tf):
         return print("error")
 
 k = candles(symb, tf)
-print(k)
